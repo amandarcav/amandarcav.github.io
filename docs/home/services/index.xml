@@ -1,38 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Portfolio Testing</title>
-    <link>https://amandarcav.github.io/</link>
-    <description>Recent content on Portfolio Testing</description>
+    <title>Services on Portfolio Testing</title>
+    <link>https://amandarcav.github.io/home/services/</link>
+    <description>Recent content in Services on Portfolio Testing</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://amandarcav.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Download original template</title>
-      <link>https://amandarcav.github.io/home/downloads/download1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://amandarcav.github.io/home/downloads/download1/</guid>
-      <description>A simple, nice-looking call to action box. Boxing is about respect. getting it for yourself, and taking it away from the other guy. no, this is mount everest.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://amandarcav.github.io/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://amandarcav.github.io/about/</guid>
-      <description>When I was a kid, I wanted to be an artist. I took art classes and cried when, in kindergarten, someone took the &amp;ldquo;future job&amp;rdquo; of Artist before I could and I had to pick architect because there couldn&amp;rsquo;t be two artists. I spent Christmas of 2017 going through the entire collection of every scribble and Cray-Paz piece I crafted that my mom saved. Looking at those pieces, I wouldn’t say I was destined to be an artist.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://amandarcav.github.io/home/subheader/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://amandarcav.github.io/home/subheader/</guid>
-      <description>Let me tell you something my friend. hope is a dangerous thing. hope can drive a man insane. you measure yourself by the people who measure themselves by you. it only took me six days.</description>
-    </item>
-    
+    <language>en-us</language><atom:link href="https://amandarcav.github.io/home/services/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Application development</title>
       <link>https://amandarcav.github.io/home/services/service3/</link>
@@ -49,15 +22,6 @@
       
       <guid>https://amandarcav.github.io/home/services/service1/</guid>
       <description>&lt;p&gt;I don&amp;rsquo;t think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn&amp;rsquo;t eat for three weeks. i once heard a wise man say there are no perfect men.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Download HUGO template</title>
-      <link>https://amandarcav.github.io/home/downloads/download2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://amandarcav.github.io/home/downloads/download2/</guid>
-      <description>Another simple, nice-looking call to action box. Boxing is about respect. getting it for yourself, and taking it away from the other guy. no, this is mount everest.</description>
     </item>
     
     <item>

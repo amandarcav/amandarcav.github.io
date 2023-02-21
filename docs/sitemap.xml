@@ -2,10 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://amandarcav.github.io/home/downloads/download1/</loc>
+  </url><url>
+    <loc>https://amandarcav.github.io/home/services/</loc>
+  </url><url>
+    <loc>https://amandarcav.github.io/home/recentworks/</loc>
+  </url><url>
+    <loc>https://amandarcav.github.io/home/downloads/</loc>
+  </url><url>
+    <loc>https://amandarcav.github.io/home/clients/</loc>
+  </url><url>
+    <loc>https://amandarcav.github.io/about/</loc>
+  </url><url>
+    <loc>https://amandarcav.github.io/home/subheader/</loc>
+  </url><url>
+    <loc>https://amandarcav.github.io/home/services/service3/</loc>
+  </url><url>
     <loc>https://amandarcav.github.io/categories/</loc>
+  </url><url>
+    <loc>https://amandarcav.github.io/home/services/service1/</loc>
+  </url><url>
+    <loc>https://amandarcav.github.io/home/downloads/download2/</loc>
+  </url><url>
+    <loc>https://amandarcav.github.io/home/</loc>
   </url><url>
     <loc>https://amandarcav.github.io/</loc>
   </url><url>
+    <loc>https://amandarcav.github.io/home/services/service4/</loc>
+  </url><url>
     <loc>https://amandarcav.github.io/tags/</loc>
+  </url><url>
+    <loc>https://amandarcav.github.io/home/services/service2/</loc>
   </url>
 </urlset>
