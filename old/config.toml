@@ -1,0 +1,5 @@
+baseURL = 'https://amandarcav.github.io/'
+languageCode = 'en-us'
+title = 'Portfolio Testing'
+theme = 'hugo-profile'
+publishDir = 'docs'

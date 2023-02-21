@@ -4,3 +4,6 @@
 [submodule "themes/hugo-initio"]
 	path = themes/hugo-initio
 	url = https://github.com/miguelsimoni/hugo-initio
+[submodule "themes/hugo-profile"]
+	path = themes/hugo-profile
+	url = https://github.com/gurusabarish/hugo-profile.git
