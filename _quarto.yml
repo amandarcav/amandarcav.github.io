@@ -2,14 +2,12 @@ project:
   type: website
   output-dir: docs
 website:
-  title: "amandarcav.github.io"
+  title: "Amanda Cavanaugh, Designer"
   navbar:
     right:
-      - about.qmd
-      - icon: github
-        href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
+      - index.qmd
+      - blog.qmd
+      - resume.qmd
 format:
   html:
     theme: cosmo
