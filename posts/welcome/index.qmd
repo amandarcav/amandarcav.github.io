@@ -1,12 +1,36 @@
 ---
-title: "Welcome To My Blog"
-author: "Tristan O'Malley"
-date: "2023-09-03"
+title: "Baby's Fourth Redesign"
+author: "Amanda Cavanaugh"
+date: "2023-09-11"
 categories: [news]
 ---
 
-This is the first post in a Quarto blog. Welcome!
+It might not be every designer's worst nightmare, but the thought of redesigning my portfolio for, I don't know, the fourth time, is giving me agita. I'm sitting here right now thinking, how am I going to go about doing this? Start with an outline? Audit all of my old portfolio's content? Just burn it all down and start from scratch?
 
-![](thumbnail.jpg)
+Maybe I should withdraw entirely and leave the old thing up forever, forking over lots of money to Squarespace for a website that I hopefully won't have to send people for a long, long time?
 
-Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.
+Big sigh. On the infamous Design Squiggle, I'm not even squiggling yet.
+
+<br>
+
+![The Process of Design Squiggle by Damien Newman, thedesignsquiggle.com](squiggle-labels-outline.png){style="padding: 24px; border: solid #dddddd;" fig-alt="An image of the design squiggle, a hand-drawn squiggly line that is super squiggly on the left but eventually untangles itself to form a more straightforward line as it heads to the right."}
+
+## A designer's guide on how to redesign a portfolio
+
+If I were to take the designerly approach and redesign it the way I'd redesign any experience for work, I'd probably start with a content audit - what exists, what is it saying, in what format is it written? What is the tone? What is the structure? What is the goal?
+
+From there, I might sit down and think if that content, its format, and its goals serve that content well and are extensible for any current work I need to slot into the portfolio. When I last updated my portfolio in 2022, most of my work was from a job I left in 2021, where I served as a principal level designer overseeing platform-level projects for two native mobile apps, plus managing a design system for each app that I created and was continually refining. The "other" section of my portfolio for my more recent role as a product design consultant at a small agency had only two projects that shipped.
+
+My work now is even more "other" than the "other" from my past portfolio. I write white papers, document my learnings, spend hours synthesizing workshop content from collaborative sessions I help facilitate. I design and conduct qualitative and quantitative research studies, do some ugly wireframes, but more often than not, I *think* a lot and help others *think* as well. We think and talk and figure things out and then document our thoughts in a way that helps others make decisions.
+
+What kind of story do I need to tell to make that work consumable for someone who might be perusing my portfolio and wondering if I'm a good fit for their team? Does it fit the same narrative as much of my past UX work? Do I need to completely redesign the template I use to structure my case studies?
+
+I think I'll start where I normally start - learning. Learning and thinking, and then documenting.
+
+Thanks for joining me on this journey.
+
+## Some notes
+
+Big thanks to Rob Cavanaugh, my genius husband, who whipped this portfolio up for me on github pages in all of ten minutes. Will I forget how to publish it? Absolutely. Will I pretend I know what I'm doing as I write these markdown documents in R Studio? For sure. But will I be forever indebted to him for saving me a hundred plus bucks a year on a portfolio? Also yes.
+
+I'm planning on writing a few of these blog posts and getting my case studies out into the wild on this URL before transitioning off Squarespace and redirecting my domain, so if you happen to stumble on this post before it's under my actual domain, let me know and I'll send you a picture of my dogs.

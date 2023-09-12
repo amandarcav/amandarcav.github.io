@@ -1,13 +1,9 @@
 ---
-title: "Post With Code"
-author: "Harlow Malloc"
-date: "2023-09-06"
-categories: [news, code, analysis]
+title: "Love Ya, Docusign"
+author: "Amanda Cavanaugh"
+date: "2023-09-11"
+categories: [interaction design, crit]
 image: "image.jpg"
 ---
 
-This is a post with executable code.
-
-```{r}
-1 + 1
-```
+A post in which I write about the love/hate relationship I have with DocuSign and how I'd sign my life away without so much as a second glance because of how easy they make it to e-Sign anything and everything.

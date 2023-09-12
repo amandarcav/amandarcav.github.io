@@ -9,29 +9,78 @@
   {
     "objectID": "posts/post-with-code/index.html",
     "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
+    "title": "Love Ya, Docusign",
     "section": "",
-    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+    "text": "A post in which I write about the love/hate relationship I have with DocuSign and how I’d sign my life away without so much as a second glance because of how easy they make it to e-Sign anything and everything."
   },
   {
     "objectID": "posts/welcome/index.html",
     "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
+    "title": "Baby’s Fourth Redesign",
     "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "text": "It might not be every designer’s worst nightmare, but the thought of redesigning my portfolio for, I don’t know, the fourth time, is giving me agita. I’m sitting here right now thinking, how am I going to go about doing this? Start with an outline? Audit all of my old portfolio’s content? Just burn it all down and start from scratch?\nMaybe I should withdraw entirely and leave the old thing up forever, forking over lots of money to Squarespace for a website that I hopefully won’t have to send people for a long, long time?\nBig sigh. On the infamous Design Squiggle, I’m not even squiggling yet."
+  },
+  {
+    "objectID": "posts/welcome/index.html#a-designers-guide-on-how-to-redesign-a-portfolio",
+    "href": "posts/welcome/index.html#a-designers-guide-on-how-to-redesign-a-portfolio",
+    "title": "Baby’s Fourth Redesign",
+    "section": "A designer’s guide on how to redesign a portfolio",
+    "text": "A designer’s guide on how to redesign a portfolio\nIf I were to take the designerly approach and redesign it the way I’d redesign any experience for work, I’d probably start with a content audit - what exists, what is it saying, in what format is it written? What is the tone? What is the structure? What is the goal?\nFrom there, I might sit down and think if that content, its format, and its goals serve that content well and are extensible for any current work I need to slot into the portfolio. When I last updated my portfolio in 2022, most of my work was from a job I left in 2021, where I served as a principal level designer overseeing platform-level projects for two native mobile apps, plus managing a design system for each app that I created and was continually refining. The “other” section of my portfolio for my more recent role as a product design consultant at a small agency had only two projects that shipped.\nMy work now is even more “other” than the “other” from my past portfolio. I write white papers, document my learnings, spend hours synthesizing workshop content from collaborative sessions I help facilitate. I design and conduct qualitative and quantitative research studies, do some ugly wireframes, but more often than not, I think a lot and help others think as well. We think and talk and figure things out and then document our thoughts in a way that helps others make decisions.\nWhat kind of story do I need to tell to make that work consumable for someone who might be perusing my portfolio and wondering if I’m a good fit for their team? Does it fit the same narrative as much of my past UX work? Do I need to completely redesign the template I use to structure my case studies?\nI think I’ll start where I normally start - learning. Learning and thinking, and then documenting.\nThanks for joining me on this journey."
+  },
+  {
+    "objectID": "posts/welcome/index.html#some-notes",
+    "href": "posts/welcome/index.html#some-notes",
+    "title": "Baby’s Fourth Redesign",
+    "section": "Some notes",
+    "text": "Some notes\nBig thanks to Rob Cavanaugh, my genius husband, who whipped this portfolio up for me on github pages in all of ten minutes. Will I forget how to publish it? Absolutely. Will I pretend I know what I’m doing as I write these markdown documents in R Studio? For sure. But will I be forever indebted to him for saving me a hundred plus bucks a year on a portfolio? Also yes.\nI’m planning on writing a few of these blog posts and getting my case studies out into the wild on this URL before transitioning off Squarespace and redirecting my domain, so if you happen to stumble on this post before it’s under my actual domain, let me know and I’ll send you a picture of my dogs."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "About",
     "section": "",
-    "text": "About this blog"
+    "text": "When I was a kid, I wanted to be an artist. I took art classes and cried when, in kindergarten, someone took the “future job” of artist before I could and I had to pick architect instead. Because obviously, there couldn’t be two artists. I spent Christmas of 2017 cleaning out my childhood closet, going through the entire collection of every scribble and Cray-Paz piece I crafted and that my mom saved. Looking at those pieces, I wouldn’t say I was destined to be an artist.\nBut now my job is to look at information and organize it - be it words, sticky notes, sketches, thoughts, visual designs. It’s artistry of a different kind than I imagined I would be doing, but artistry all the same."
+  },
+  {
+    "objectID": "index.html#amanda-artist",
+    "href": "index.html#amanda-artist",
+    "title": "About",
+    "section": "",
+    "text": "When I was a kid, I wanted to be an artist. I took art classes and cried when, in kindergarten, someone took the “future job” of artist before I could and I had to pick architect instead. Because obviously, there couldn’t be two artists. I spent Christmas of 2017 cleaning out my childhood closet, going through the entire collection of every scribble and Cray-Paz piece I crafted and that my mom saved. Looking at those pieces, I wouldn’t say I was destined to be an artist.\nBut now my job is to look at information and organize it - be it words, sticky notes, sketches, thoughts, visual designs. It’s artistry of a different kind than I imagined I would be doing, but artistry all the same."
+  },
+  {
+    "objectID": "index.html#amanda-writer",
+    "href": "index.html#amanda-writer",
+    "title": "About",
+    "section": "Amanda: Writer",
+    "text": "Amanda: Writer\nMy background is in words. I wrote throughout my youth and then through college, earning a bachelor’s degree in fiction writing and philosophy and later, a master’s in professional writing. But writing the words wasn’t really where my love settled - organizing the words was. The puzzle-putting-togetherness of information architecture captured my passion and swept me up."
+  },
+  {
+    "objectID": "index.html#amanda-designer",
+    "href": "index.html#amanda-designer",
+    "title": "About",
+    "section": "Amanda: Designer",
+    "text": "Amanda: Designer\nAt the time that I was falling in love with information architecture, the industry was falling in love with UX generalism. So, I quickly transitioned from information architect to UX designer, wearing the hats of researcher, IA, interaction designer, visual designer, and content strategist. Then, I discovered the calm of designing within the rigidity of native mobile apps, and joy of solving the puzzle of building and maintaining an efficiently organized, foundationally usable design system for multiple platforms. When I felt too far away from the day to day problem solving of product design, I transitioned back into agency life and was fortunate enough to hop into and out of some amazing client problems."
+  },
+  {
+    "objectID": "index.html#amanda-strategist",
+    "href": "index.html#amanda-strategist",
+    "title": "About",
+    "section": "Amanda: Strategist",
+    "text": "Amanda: Strategist\nBut agency life was tough and I missed the SME-ness of being an in-house designer so once again, I transitioned into a more long-term design role, first as a product designer and now, as a design strategist with some moonlighting still playing with pixels."
+  },
+  {
+    "objectID": "index.html#amanda-human",
+    "href": "index.html#amanda-human",
+    "title": "About",
+    "section": "Amanda: Human",
+    "text": "Amanda: Human\nOutside of my day job, you can find me running the Aerial Arts program at EVO Rock + Fitness in Portland, Maine, doing the daily NYT crossword puzzle, and walking our neighborhood beach with our two dogs and my husband, Rob.\n\n\n\nAmanda, Rob, Murphy (blond) and Willa (fluffy black hole) on top of Pleasant Mt. in Maine"
   },
   {
     "objectID": "blog.html",
     "href": "blog.html",
     "title": "Blog",
     "section": "",
-    "text": "Post With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nSep 6, 2023\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nSep 3, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "Love Ya, Docusign\n\n\n\ninteraction design\n\n\ncrit\n\n\n\n\n\n\n\nAmanda Cavanaugh\n\n\nSep 11, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nBaby’s Fourth Redesign\n\n\n\nnews\n\n\n\n\n\n\n\nAmanda Cavanaugh\n\n\nSep 11, 2023\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]
