@@ -1,0 +1,1 @@
+LangGraph is a library for building stateful, multi-actor LLM applications as graphs. Each node in the graph is a step in your application (like retrieval, grading, or generation), and edges define the control flow between steps. This makes it easier to reason about complex agent workflows such as Agentic RAG, tool-use, and multi-step planning.

@@ -1,0 +1,1 @@
+Agentic RAG augments standard RAG with an agent loop that can grade document relevance, rewrite queries, and route between tools like vector search and web search. The agent iteratively improves retrieval quality before generating a final answer with citations.
