@@ -1,9 +1,0 @@
----
-title: "Love Ya, Docusign"
-author: "Amanda Cavanaugh"
-date: "2023-09-11"
-categories: [interaction design, crit]
-image: "image.jpg"
----
-
-A post in which I write about the love/hate relationship I have with DocuSign and how I'd sign my life away without so much as a second glance because of how easy they make it to e-Sign anything and everything.
