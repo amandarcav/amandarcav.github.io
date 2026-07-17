@@ -154,7 +154,7 @@ main {
 }
 
 footer {
-  text-align: center;
+  text-align: left;
   padding: 2rem 1.5rem 3rem;
   color: var(--ink-dim);
   font-size: 0.8rem;
