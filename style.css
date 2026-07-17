@@ -116,12 +116,11 @@ main {
 }
 
 .contact h2 {
-  font-family: 'IBM Plex Mono', monospace;
-  font-size: 0.85rem;
-  text-transform: uppercase;
-  letter-spacing: 0.08em;
+  font-family: 'Noto Serif', serif;
+  font-weight: 500;
+  font-size: 1.3rem;
   color: var(--amber);
-  margin-bottom: 1rem;
+  margin: 0 0 0.5rem;
 }
 
 .contact p {
